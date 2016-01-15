@@ -1,4 +1,4 @@
- #!/usr/bin/python
+#!/usr/bin/python
 ###########################################################################
 #          (C) Vrije Universiteit, Amsterdam (the Netherlands)            #
 #                                                                         #
